@@ -1,2 +1,2 @@
 # myprojtect
-some utils
+some simple java utils
